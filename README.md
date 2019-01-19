@@ -9,3 +9,5 @@ The goal of this notebook is to serve as a introduction to text generation NLPs.
 Check it out on Kaggle: https://www.kaggle.com/valkling/pythonicpythonscript4makingmontypythonscripts
 
 Check it out with Seinfeld script data at: https://www.kaggle.com/valkling/pythonicpythonscript4making-seinfeld-scripts
+
+Check it out with the original Star Wars scripts: https://www.kaggle.com/valkling/making-new-ai-generated-star-wars-scripts
